@@ -2,7 +2,7 @@
 # Python
 This repository is created for some python useful python scripts and code. 
 
-
+[1) Random Password Generator](https://github.com/MitThakkar24/Python/blob/main/Random%20Password%20Generator.ipynb)
 
 
 ## Related
